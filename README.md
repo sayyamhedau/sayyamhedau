@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Sayyam</h1>
 <h3 align="center">A Passionate Java Developer from India</h3>
 
-<p>I'm passionate, enthusiastic & adaptive to technologies. I love open source technologies. Having excellent technical knowledge in working with Core Java, Collections & Design Patterns. Proficient in technologies such as Hibernate, Spring, Spring Mvc, JavaScript, JQuery, AJAX & Restful Web Services.</p>
+<p>I'm passionate, enthusiastic & adaptive to technologies. I love open source technologies.</p>
 
 <br/>
 
