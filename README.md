@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sayyam</h1>
+<h1 align="center">Hi there👋, I'm Sayyam</h1>
 <h3 align="center">A Passionate Java Developer from India</h3>
+
+##I'm passionate, enthusiastic & adaptive to technologies. I love open source technologies. Having excellent technical knowledge in working with Core Java, Collections & Design Patterns. Proficient in technologies such as Hibernate, Spring, Spring Mvc, JavaScript, JQuery, AJAX & Restful Web Services. 
+
+<br/>
 
 - 🌱 I’m currently learning **Microservice Architecture**
 - 💬 Ask me about **Java Technologies, Spring Boot**
